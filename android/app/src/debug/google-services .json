@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600666660473",
+    "project_id": "radha-firebase",
+    "storage_bucket": "radha-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600666660473:android:7593f6f85cde860bdebea8",
+        "android_client_info": {
+          "package_name": "com.example.radha_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyUit-H6v2Yd7QPkeeq-4syXRFdocgwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
